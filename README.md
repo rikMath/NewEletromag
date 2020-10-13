@@ -1,0 +1,3 @@
+Campos vetoriais são objetos matemáticos que descrevem um sistema em cima e um conjunto de vetores existente em um espaço. Tal conceito é extremamente útil em física, uma vez que uma grande quantidade de grandezas físicas podem ser expressas por vetores em um espaço. Algumas dessas grandezas são o campo gravitacional, campos de gradientes de funções tridimensionais e o campo elétrico. Para representar uma visualização de um campo elétrico, uma espécie de campo vetorial essencial no mundo físico, esse simples simulador reproduzirá um campo afetado por um número de cargas definidas pelo usuário do simulador.
+
+Para executar o arquivo basta baixar as bibliotecas existentes em requirements.txt e executar o script main.py.
